@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PTU Random Pokemon Generator</string>
+    <string-array name="habitats_array">
+        <item>cave</item>
+        <item>forest</item>
+        <item>grassland</item>
+        <item>mountain</item>
+        <item>rare</item>
+        <item>rough-terrain</item>
+        <item>sea</item>
+        <item>urban</item>
+        <item>waters-edge</item>
+    </string-array>
+</resources>
