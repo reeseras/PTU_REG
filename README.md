@@ -9,3 +9,5 @@ Pokemon Tabletop United is like Dungeons and Dragons but with pokemon. One of th
 
 ## Solution
 PTU REG allows wild encounters to be quickly and easily created by adjusting filters. Encounters can be made on the spot, giving the GM more time to work on the actual campaign rather than the random encounters.
+
+![UI example image](https://imgur.com/zTT50fZ)
